@@ -12,24 +12,19 @@ parallax_image_two: assets/images/startup3.jpg
 project_one: Visualization Github
 project_one_description: This Project is to visualize github repo using github API
 project_one_url: https://github.com/JayStevency/PortfolioProject1
-project_one_icon: location_on
+project_one_icon: photo_camera
 
-project_two: Second Project
-project_two_description: Describe your project!
+project_two: Project Space
+project_two_description: Vue.js and Nodejs
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: photo_camera
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: SPA-ESC(Elastic Search Crawler)
+project_three_description: This Project is to collect spa products using scrapy for search engine
+project_three_url: https://github.com/Jaystevency/spa-esc
 project_three_icon: hotel
 
-
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
 
 portfolio_heading: Portfolio
 portfolio_type: cards
