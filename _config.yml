@@ -11,12 +11,12 @@ parallax_image_two: assets/images/startup3.jpg
 
 project_one: Visualization Github
 project_one_description: This Project is to visualize github repo using github API
-project_one_url: https://github.com/JayStevency/PortfolioProject1
+project_one_url: https://github.com/JayStevency/visualization-github
 project_one_icon: photo_camera
 
-project_two: Project Space
+project_two: E-Commerce
 project_two_description: Vue.js and Nodejs
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two_url: https://github.com/JayStevency/e-commerce
 project_two_icon: photo_camera
 
 
@@ -61,7 +61,6 @@ skills:
   - name: mysql
   - name: nginx
   - name: nodejs
-  - name: postgresql
   - name: python
   - name: pycharm
   - name: redis
@@ -70,7 +69,6 @@ skills:
   - name: slack
   - name: ssh
   - name: tomcat
-  - name: travis
   - name: trello
   - name: ubuntu
   - name: vim
