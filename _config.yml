@@ -6,8 +6,8 @@ description: Portfolio & Blog
 baseurl: "/blog"
 url: ""
 
-parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup3.jpg
+parallax_image_one: assets/images/IMG_0606.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/IMG_0606.jpg
 
 project_one: Visualization Github
 project_one_description: This Project is to visualize github repo using github API
@@ -87,8 +87,8 @@ baseurl: # if your site is located at /blog or /home, enter it here, otherwise l
 url: http://localhost:4000/ #the url of your site
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
-tag_manager_id: # This looks something like GTM-XXXXXXX
-google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
+tag_manager_id: GTM-KT36BTS # This looks something like GTM-XXXXXXX
+google_analytics_tracking_id: UA-115804444-1 # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
 cookies_banner: none # The value "show" will show the cookies banner, the value "none" will hide the banner.
 
