@@ -14,10 +14,10 @@ project_one_description: This Project is to visualize github repo using github A
 project_one_url: https://github.com/JayStevency/visualization-github
 project_one_icon: photo_camera
 
-project_two: E-Commerce
-project_two_description: Vue.js and Nodejs
-project_two_url: https://github.com/JayStevency/e-commerce
-project_two_icon: photo_camera
+#project_two: E-Commerce
+#project_two_description: Vue.js and Nodejs
+#project_two_url: https://github.com/JayStevency/e-commerce
+#project_two_icon: photo_camera
 
 
 project_three: SPA-ESC(Elastic Search Crawler)
